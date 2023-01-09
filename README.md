@@ -9,4 +9,5 @@
 
 ## This should enlighten startups and helps them on how to position themselves for Y-combinator startup accerator.
 
-[Y Combinator Analysis.pdf](https://github.com/VictorOluniyi/Y-Combinator-Analysis/files/10371713/Y.Combinator.Analysis.pdf)
+![Y Combinator Analysis-1](https://user-images.githubusercontent.com/115374063/211273348-0d390bb3-fc02-493b-b11f-538c6e9f01a2.png)
+view dashboard here
