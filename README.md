@@ -7,4 +7,6 @@
 
 ### I Carried out research on Y combinator startup and did an analysis on it using Microsoft power bi and microsoft excel. I noted out the Total funding so far, the total number of companies funded so far, interested industries funded so far, top country with funded companies, top industry with funded companies, top sdgs funded, investment seed funded
 
-This should enlighten startups and helps them on how to position themselves for Y-combinator startup accerator.
+## This should enlighten startups and helps them on how to position themselves for Y-combinator startup accerator.
+
+[Y Combinator Analysis.pdf](https://github.com/VictorOluniyi/Y-Combinator-Analysis/files/10371713/Y.Combinator.Analysis.pdf)
