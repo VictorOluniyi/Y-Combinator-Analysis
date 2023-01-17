@@ -9,7 +9,7 @@
 
 ### This should enlighten startups and helps them on how to position themselves for Y-combinator funding program.
 
-![Y Combinator Analysis-1](https://user-images.githubusercontent.com/115374063/211273348-0d390bb3-fc02-493b-b11f-538c6e9f01a2.png)
+![Y Combinator Analysis fake-1](https://user-images.githubusercontent.com/115374063/212896860-cc8130ba-1fe5-4246-a73a-130978f261a8.png)
 view dashboard here
 
 Y Combinator is a startup accelerator that invests in a wide range of startups twice a year.
