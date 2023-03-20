@@ -5,8 +5,6 @@ Y Combinator (YC) is an American technology startup accelerator launched in Marc
 
 YC program teaches founders to market their product, team, and market, refine their business model, achieve product/market fit, and scale the startup into a high-growth business, etc. The program ends with Demo Day, where startups present their business and sometimes technology to potential investors
 
-YC Series A helps founders launch their A round. YC Growth Program provides founders with resources to scale their companies and hire an executive team, and YC Continuity invests in their later stage rounds.
-
 ## Problem Statement
 I Carried out research on Y combinator startup and did an analysis on it using Microsoft power bi and microsoft excel. I noted out the following:
 1. Total funding received from Y-Combinator
@@ -19,6 +17,9 @@ I Carried out research on Y combinator startup and did an analysis on it using M
 8. Proximity of Nigeria companies being funded
 
 This should enlighten startups and helps them on how to position themselves for Y-combinator funding program.
+
+## TECH STACK
+Excel, Power Query and Power BI
 
 ## Data Transformation and Cleaning
 After importing my data into power query, I checked for duplicates(found none),the validity of my data using column distribution, quality and profiling and removed columns not neccessary for my analysis. I also made sure my columns were in the right data type.
