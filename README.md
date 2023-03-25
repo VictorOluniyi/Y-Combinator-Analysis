@@ -1,4 +1,4 @@
-# Research and Anaysis on Y-Combinator Startup Accelerator
+# Research and Anaysis on Y-Combinator Funding Program
 
 ## Introduction
 Y Combinator (YC) is an American technology startup accelerator launched in March 2005. It has been used to launch more than 3,000 companies, including Stripe, Airbnb, Cruise, PagerDuty, DoorDash, Coinbase, Instacart, Dropbox, Twitch, and Reddit, Inc.. The combined valuation of the top YC companies was more than $300 billion by January 2021.
